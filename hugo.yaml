@@ -1,4 +1,4 @@
-baseurl:  https://qxs1369-source.github.io/myhugo/  #连接
+baseurl:  "https://qxs1369-source.github.io/myhugo/"  #连接
 languageCode: zh-cn
 theme: hugo-theme-stack #主题
 paginate: 10            #分页

@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/myhugo/zh-cn/sitemap.xml</loc>
+    <loc>http://localhost:65207/myhugo/zh-cn/sitemap.xml</loc>
     
       <lastmod>2026-09-21T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/myhugo/en/sitemap.xml</loc>
+    <loc>http://localhost:65207/myhugo/en/sitemap.xml</loc>
     
   </sitemap>
   
