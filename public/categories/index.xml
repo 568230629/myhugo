@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on 晟哥资源网</title>
+        <link>http://localhost:1313/myhubo/categories/</link>
+        <description>Recent content in Categories on 晟哥资源网</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/myhubo/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>命令</title>
+        <link>http://localhost:1313/myhubo/categories/%E5%91%BD%E4%BB%A4/</link>
+        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/myhubo/categories/%E5%91%BD%E4%BB%A4/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>指令</title>
+        <link>http://localhost:1313/myhubo/categories/%E6%8C%87%E4%BB%A4/</link>
+        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/myhubo/categories/%E6%8C%87%E4%BB%A4/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>http://localhost:1313/myhubo/categories/test/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/myhubo/categories/test/</guid>
+        <description>&lt;img src="http://localhost:1313/myhubo/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
