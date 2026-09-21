@@ -6,6 +6,7 @@
         <description>Recent content on 晟哥资源网</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
+        <copyright>relativeURLs = true canonifyURLs = false</copyright>
         <lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/myhugo/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>hugo命令集</title>
         <link>http://localhost:1313/myhugo/p/test-chinese/</link>

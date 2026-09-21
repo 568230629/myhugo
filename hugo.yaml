@@ -5,6 +5,9 @@ paginate: 10            #分页
 title: Example Site
 copyright:     #底标
 
+ relativeURLs = true
+ canonifyURLs = false
+
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
 DefaultContentLanguage: zh-cn

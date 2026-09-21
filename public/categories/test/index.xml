@@ -5,6 +5,7 @@
         <link>http://localhost:1313/myhugo/categories/test/</link>
         <description>Recent content in Test on 晟哥资源网</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language><atom:link href="http://localhost:1313/myhugo/categories/test/index.xml" rel="self" type="application/rss+xml" />
+        <language>zh-cn</language>
+        <copyright>relativeURLs = true canonifyURLs = false</copyright><atom:link href="http://localhost:1313/myhugo/categories/test/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
