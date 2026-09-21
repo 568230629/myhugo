@@ -2,68 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:65207/myhugo/</loc>
+    <loc>http://localhost:1313/myhugo/</loc>
     <lastmod>2026-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:65207/myhugo/en/"
+                href="http://localhost:1313/myhugo/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:65207/myhugo/"
+                href="http://localhost:1313/myhugo/"
                 />
   </url><url>
-    <loc>http://localhost:65207/myhugo/categories/</loc>
+    <loc>http://localhost:1313/myhugo/categories/</loc>
     <lastmod>2026-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:65207/myhugo/en/categories/"
+                href="http://localhost:1313/myhugo/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:65207/myhugo/categories/"
+                href="http://localhost:1313/myhugo/categories/"
                 />
   </url><url>
-    <loc>http://localhost:65207/myhugo/p/test-chinese/</loc>
+    <loc>http://localhost:1313/myhugo/p/test-chinese/</loc>
     <lastmod>2026-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65207/myhugo/post/</loc>
+    <loc>http://localhost:1313/myhugo/post/</loc>
     <lastmod>2026-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65207/myhugo/categories/%E5%91%BD%E4%BB%A4/</loc>
+    <loc>http://localhost:1313/myhugo/categories/%E5%91%BD%E4%BB%A4/</loc>
     <lastmod>2026-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65207/myhugo/categories/%E6%8C%87%E4%BB%A4/</loc>
+    <loc>http://localhost:1313/myhugo/categories/%E6%8C%87%E4%BB%A4/</loc>
     <lastmod>2026-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65207/myhugo/page/</loc>
+    <loc>http://localhost:1313/myhugo/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65207/myhugo/archives/</loc>
+    <loc>http://localhost:1313/myhugo/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65207/myhugo/tags/</loc>
+    <loc>http://localhost:1313/myhugo/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:65207/myhugo/en/tags/"
+                href="http://localhost:1313/myhugo/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:65207/myhugo/tags/"
+                href="http://localhost:1313/myhugo/tags/"
                 />
   </url><url>
-    <loc>http://localhost:65207/myhugo/categories/test/</loc>
+    <loc>http://localhost:1313/myhugo/categories/test/</loc>
   </url><url>
-    <loc>http://localhost:65207/myhugo/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>http://localhost:1313/myhugo/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
-    <loc>http://localhost:65207/myhugo/search/</loc>
+    <loc>http://localhost:1313/myhugo/search/</loc>
   </url><url>
-    <loc>http://localhost:65207/myhugo/%E5%8F%8B%E8%BF%9E/</loc>
+    <loc>http://localhost:1313/myhugo/%E5%8F%8B%E8%BF%9E/</loc>
   </url>
 </urlset>
