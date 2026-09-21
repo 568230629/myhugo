@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on 晟哥资源网</title>
-        <link>http://localhost:51858/myhugo/post/</link>
+        <link>http://localhost:1313/myhugo/post/</link>
         <description>Recent content in Posts on 晟哥资源网</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>relativeURLs = true canonifyURLs = false</copyright>
-        <lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:51858/myhugo/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/myhugo/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>hugo命令集</title>
-        <link>http://localhost:51858/myhugo/p/test-chinese/</link>
+        <link>http://localhost:1313/myhugo/p/test-chinese/</link>
         <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:51858/myhugo/p/test-chinese/</guid>
-        <description>&lt;img src="http://localhost:51858/myhugo/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post hugo命令集" /&gt;&lt;h2 id=&#34;检测环境&#34;&gt;检测环境
+        <guid>http://localhost:1313/myhugo/p/test-chinese/</guid>
+        <description>&lt;img src="http://localhost:1313/myhugo/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post hugo命令集" /&gt;&lt;h2 id=&#34;检测环境&#34;&gt;检测环境
 &lt;/h2&gt;&lt;p&gt;&lt;code&gt; Git --version&lt;/code&gt;  &lt;code&gt; Git --version&lt;/code&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;

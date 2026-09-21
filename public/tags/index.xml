@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on 晟哥资源网</title>
-        <link>http://localhost:51858/myhugo/tags/</link>
+        <link>http://localhost:1313/myhugo/tags/</link>
         <description>Recent content in Tags on 晟哥资源网</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>relativeURLs = true canonifyURLs = false</copyright><atom:link href="http://localhost:51858/myhugo/tags/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>relativeURLs = true canonifyURLs = false</copyright><atom:link href="http://localhost:1313/myhugo/tags/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
