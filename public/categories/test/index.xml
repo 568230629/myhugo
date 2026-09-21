@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Test on 晟哥资源网</title>
-        <link>http://localhost:1313/myhugo/categories/test/</link>
-        <description>Recent content in Test on 晟哥资源网</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language>
-        <copyright>relativeURLs = true canonifyURLs = false</copyright><atom:link href="http://localhost:1313/myhugo/categories/test/index.xml" rel="self" type="application/rss+xml" />
-    </channel>
+  <channel>
+    <title>Test on </title>
+    <link>//localhost:1313/categories/test/</link>
+    <description>Recent content in Test on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/categories/test/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
 </rss>
